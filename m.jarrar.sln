@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "m.jarrar", "m.jarrar\m.jarrar.njsproj", "{741A8016-F3E5-4A16-9141-EEFC2893FC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741A8016-F3E5-4A16-9141-EEFC2893FC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741A8016-F3E5-4A16-9141-EEFC2893FC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741A8016-F3E5-4A16-9141-EEFC2893FC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741A8016-F3E5-4A16-9141-EEFC2893FC69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C46BAC1-5EF6-4912-BCAF-E0329D21B017}
+	EndGlobalSection
+EndGlobal
